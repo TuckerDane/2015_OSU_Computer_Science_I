@@ -1,4 +1,4 @@
-# 2015_OSU_Computer_Science_I
+# 2015 OSU Computer Science I
 coursework from my Computer Science I course at OSU
 
 ## Week 1
